@@ -1,6 +1,6 @@
-### Hi, I'm Monica 👋🏾 👩🏾‍💻
+### Hi, I'm Azriel 👋🏾 👩🏾‍💻
 
-My Name is Azriel from indonesia, i'm Designer and Development. I really enjoy learning languages like java
+i'm Designer and Development. I really enjoy learning languages like java
 You can check out my twitter at https://twitter.com/azrielakbarfs
 
 - 🔭 I’m currently working on https://easyexchange.store/
