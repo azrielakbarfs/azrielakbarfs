@@ -1,9 +1,9 @@
 ### Hi, I'm Azriel 👋🏾 👩🏾‍💻
 
 i'm Designer and Development. I really enjoy learning languages like java
-You can check out my twitter at https://twitter.com/azrielakbarfs
+You can check out my twitter at twitter.com/azrielakbarfs
 
-- 🔭 I’m currently working on https://easyexchange.store/
+- 🔭 I’m currently working on easyexchange.store
 - 🌱 I’m currently learning Java, C++ and HTML
 - 💬 Ask me about Java or C++
 - 📫 How to reach me: Discord Azrielakbarfs#9818
