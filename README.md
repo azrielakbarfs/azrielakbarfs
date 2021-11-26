@@ -10,6 +10,7 @@ You can check out my twitter at https://twitter.com/azrielakbarfs
 - 😄 Language: Indonesian & English
 - ⚡ Fun fact: I love programming ever since I wanted to write stanzas of code for the world to run
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrielakbarfs)](https://github.com/anuraghazra/github-readme-stats)
 
 
