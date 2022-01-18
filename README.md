@@ -10,7 +10,7 @@ Twitter: https://twitter.com/azrielakbarfs
 - 💬 Ask me about Java or C++
 - 📫 How to reach me: Discord Azrielakbarfs#9818
 - 😄 Language: Indonesian & English
-- ⚡ Fun fact: I love programming ever since I wanted to write stanzas of code for the world to run
+- ⚡ Fun fact: -
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrielakbarfs)](https://github.com/anuraghazra/github-readme-stats)
