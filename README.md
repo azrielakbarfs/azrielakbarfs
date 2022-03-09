@@ -5,6 +5,7 @@ You can check out my portfolio at [Cooming soon]
 ### Social Media
 Twitter: https://twitter.com/azrielakbarfs
 
+https://github.com/azrielakbarfs/azrielakbarfs#-current-activity
 - 🔭 I’m currently working on https://easyexchange.store
 - 🌱 I’m currently learning Java, C++ and HTML
 - 💬 Ask me about Java or C++
