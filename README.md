@@ -7,9 +7,9 @@
 i'm graphic, vidio, photo designer and front end developer, i wish become full-stack developer ✨
 
 #### 📋 Current Activity
-- 📖 I’m Focus on Website Development;
-- 👨‍💻 I’m currently learning Java, CSS & HTML
-- 🎓 I'm study at University Nusantara PGRI Kediri
+- 📖 I’m Focus on Website Development ;
+- 👨‍💻 I’m currently learning Java, CSS & HTML ;
+- 🎓 I'm study at University Nusantara PGRI Kediri ;
 
 <hr>
 <p align='center'>
