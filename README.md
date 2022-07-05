@@ -1,16 +1,25 @@
-### Hi, I'm Azriel Akbar Firman Syah👋
+### Hi there, I'm Azriel 👋
 
-i'm Designer and Development. I really enjoy learning languages like java
-You can check out my portfolio at [Cooming soon]
+![Profile Views](https://komarev.com/ghpvc/?username=azrielakbarfs)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/azrielakbarfs/)
+[![Twitter](https://img.shields.io/badge/--linkedin?label=Twitter&logo=Twitter&style=social)](https://www.twitter.com/azrielakbarfs/)
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/azrielakbarfs/) 
 
-=========================================================================
-- 🔭 I’m currently working on https://easyexchange.store
-- 🌱 I’m currently learning Java, CSS & HTML
-- 💬 Ask me about Java or C++
-- 📫 How to reach me: Discord Azrielakbarfs#9818
-- 😄 Language: Indonesian & English
-- ⚡ Fun fact: -
+i'm graphic, vidio, photo designer and front end developer, i wish become full-stack developer ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrielakbarfs)](https://github.com/anuraghazra/github-readme-stats)
+#### 📋 Current Activity
+- 📖 I’m Focus on Website Development;
+- 👨‍💻 I’m currently learning Java, CSS & HTML
+- 🎓 I'm study at University Nusantara PGRI Kediri
+
+<hr>
+<p align='center'>
+  <a href="https://github.com/azrielakbarfs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrielakbarfs&layout=compact" alt="azrielakbarfs's github stats"/>
+  </a>
+  <a href="https://github.com/azrielakbarfs/">
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=azrielakbarfs&hide=issues&count_private=true&show_icons=true" alt="azrielakbarfs's github stats" />
+  </a>
+</p>
 
 
