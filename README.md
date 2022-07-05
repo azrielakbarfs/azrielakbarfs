@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=azrielakbarfs)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/azrielakbarfs/)
 [![Twitter](https://img.shields.io/badge/--linkedin?label=Twitter&logo=Twitter&style=social)](https://www.twitter.com/azrielakbarfs/)
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/azrielakbarfs/) 
 
 i'm graphic, vidio, photo designer and front end developer, i wish become full-stack developer ✨
 
