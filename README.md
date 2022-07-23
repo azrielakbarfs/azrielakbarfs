@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azrielakbarfs)
 
-i'm graphic, vidio, photo designer and front end developer, i wish become full-stack developer ✨
+i'm graphic designer and front end developer ✨
 
 #### 📋 Current Activity
 - 📖 I’m Focus on Website Development ;
