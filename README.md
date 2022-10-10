@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azrielakbarfs)
 
-i'm graphic designer and front end developer ✨
+I'm graphic designer && front end developer ✨
+Interest for Cloud Architecture Microsoft Azure
+
 
 #### 📋 Current Activity
 - 📖 I’m Focus on Website Development ;
