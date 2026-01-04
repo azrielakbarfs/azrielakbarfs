@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Azriel+Akbar+👋;Web+Developer+%26+Bot+Creator;Azure+Certified+Associate;Ingin+Menjadi+Programmer+Handal,+Namun+Enggan+Ngoding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Azriel+Akbar+👋;Web+Developer+%26+Bot+Creator;Azure+Certified+Associate;Based+in+Kediri,+Indonesia" alt="Typing SVG" />
   
   <br>
 
   <a href="https://learn.microsoft.com/en-us/users/azrielakbarfs/transcript">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certified">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azrielakbarfs&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -32,20 +40,15 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">📈 Coding Activity</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrielakbarfs&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Top Langs" height="170"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=azrielakbarfs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&count_private=true" alt="Github Stats" height="170"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrielakbarfs&theme=tokyonight&hide_border=true&bg_color=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=36BCF7&currStreakLabel=36BCF7" alt="Streak Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=azrielakbarfs&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=azrielakbarfs&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=36BCF7&currStreakLabel=36BCF7" alt="Streak Stats" />
 </div>
 
 <br>
