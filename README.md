@@ -74,6 +74,7 @@ const azriel = {
 
 ---
 
+<!-- Hidden until the snake workflow has run once (GitHub Actions is blocked by a billing lock).
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -85,6 +86,8 @@ const azriel = {
 </p>
 
 ---
+-->
+
 
 ## 📫 Connect with Me
 
